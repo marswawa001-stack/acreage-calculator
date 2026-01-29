@@ -17,7 +17,7 @@ A standalone React version of the Acreage Calculator. Use it to convert width/le
 
 ## Links
 
-- Official Online Calculator (Backlink): https://www.calculatorvast.com/acreage-calculator
+- Official Online Calculator: https://www.calculatorvast.com/acreage-calculator
 
 ## Install
 
