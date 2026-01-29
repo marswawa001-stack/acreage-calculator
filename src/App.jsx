@@ -8,7 +8,7 @@ export default function App() {
           <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-1">Acreage Calculator</h1>
           <p className="text-gray-600 text-lg mb-2">Calculate land area and estimate property costs</p>
           <p className="text-gray-500 text-sm">
-            Check the official online version: <a className="text-blue-600 hover:underline" href="https://www.calculatorvast.com/acreage-calculator" target="_blank" rel="noreferrer">https://www.calculatorvast.com/acreage-calculator</a>
+            Official online calculator: <a className="text-blue-600 hover:underline" href="https://www.calculatorvast.com/acreage-calculator" target="_blank" rel="noreferrer">https://www.calculatorvast.com/acreage-calculator</a>
           </p>
         </header>
 
