@@ -1,0 +1,15 @@
+{
+  "calculator_id": "acreage-calculator",
+  "calculator_page_url": "https://www.calculatorvast.com/acreage-calculator",
+  "exported_at": "2026-01-29T14:18:24Z",
+  "source_paths": [
+    "app/acreage-calculator/AcreageCalculatorContent.js"
+  ],
+  "notes": [
+    "Exported as standalone Vite+React app.",
+    "Omitted site-only wrappers (Breadcrumb, CreatorCard, tracking, ratings, related calculators).",
+    "Did not export educational content by default (include_guide=false).",
+    "Replaced Next.js/shared dependencies with minimal standalone components (ShareModal, ShareAndClearButtons) and a mock currency system (useCurrencySystem, getExchangeRate).",
+    "Added canonical link and README backlink to the official calculator page."
+  ]
+}
